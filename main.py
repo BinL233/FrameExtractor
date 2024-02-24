@@ -20,5 +20,8 @@ def main():
     else:
         print("Failed")
 
+    print("Press any key to exit")
+    input()
+
 if __name__ == "__main__":
     main()
